@@ -1,4 +1,4 @@
-# stealing_stuff-sample
+# Stealing Stuff Sample Files
 Sample files from the Stealing Stuff project\
 An arcade-style game developed in C++ and Unreal Blueprint, where players steal objects in the environment by moving them to a specified zone, while avoiding detection\
 A trailer for the game can be found at [https://www.youtube.com/watch?v=tQ39e2bVUx4]\
